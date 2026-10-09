@@ -1,0 +1,21 @@
+{
+  "name": "receipt-lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/jest": "^30.0.0",
+    "eslint": "^10.12.0",
+    "jest": "^30.5.2",
+    "ts-jest": "^29.4.14",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.71.1"
+  }
+}
